@@ -66,8 +66,8 @@ I do Full Stack mobile software development. Using Flutter/Dart for frontend and
 </summary>
 <br>
 <div align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortus222&" alt="nortus222" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nortus222&show_icons=true&locale=en" alt="nortus222" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortus222&count_private=true&border_radius=10" alt="nortus222" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nortus222&count_private=true&show_icons=true&locale=en&border_radius=10" alt="nortus222" />
 </div>
 
 
