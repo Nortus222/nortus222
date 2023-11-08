@@ -66,8 +66,10 @@ I do Full Stack mobile software development. Using Flutter/Dart for frontend and
 </summary>
 <br>
 <div align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortus222&count_private=true&border_radius=10" alt="nortus222" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nortus222&count_private=true&show_icons=true&locale=en&border_radius=10" alt="nortus222" />
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Nortus222&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Nortus222&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nortus222&count_private=true&border_radius=10" alt="nortus222" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nortus222&count_private=true&show_icons=true&locale=en&border_radius=10" alt="nortus222" /> -->
 </div>
 
 
