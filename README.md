@@ -52,8 +52,8 @@ I do Full Stack mobile software development. Using Flutter/Dart for frontend and
 - AWS Lambda functions, SageMaker
 - Scraping Social Media Platforms using Python
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="left">
+  <h2>My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nortus222/nortus222/output/github-contribution-grid-snake.svg" />
   
