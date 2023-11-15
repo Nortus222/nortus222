@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer from Ukraine🇺🇦 living in Seattle🇺🇸 </h3>
 
 ## What I do
-I do Full Stack mobile software development. Using Flutter/Dart for frontend and C#/Azure for backend. I am currently actively working on and maintaining 4 mobile apps that are released to both Ios and Android as well as hosted on the Web. I am really passionate about mobile app development as it allows me to combine both logical programming and beaustiful design.
+I do Full Stack mobile software development. Using Flutter/Dart for frontend and C#/Azure for backend. I am currently actively working on and maintaining 4 mobile apps that are released to both IOS and Android as well as hosted on the Web. I am really passionate about mobile app development as it allows me to combine both logical programming and beautiful design.
 
 ## :computer: Technologies I Love
 * Flutter
